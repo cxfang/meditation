@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxxhdpi"
+    format="7"
+    timestamp="454963409059126"
+    token="-4658597774956844315" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/cfang/Library/Android/meditation/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="454963409059126" >
+        <artifact
+            location="/Users/cfang/Library/Android/meditation/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

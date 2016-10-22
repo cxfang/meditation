@@ -1,0 +1,4 @@
+CHANGED,/Users/cfang/Library/Android/meditation/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/philips/lighting/quickstart/MyApplicationActivity$2$override.class
+CHANGED,/Users/cfang/Library/Android/meditation/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/cfang/Library/Android/meditation/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/philips/lighting/quickstart/MyApplicationActivity$1$override.class
+CHANGED,/Users/cfang/Library/Android/meditation/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/philips/lighting/quickstart/MyApplicationActivity$override.class

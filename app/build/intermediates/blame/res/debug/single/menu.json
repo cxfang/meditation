@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cfang/Library/Android/meditation/app/build/intermediates/res/merged/debug/menu/bridgelist.xml",
+        "source": "/Users/cfang/Library/Android/meditation/app/src/main/res/menu/bridgelist.xml"
+    },
+    {
+        "merged": "/Users/cfang/Library/Android/meditation/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/cfang/Library/Android/meditation/app/build/intermediates/exploded-aar/meditation/muse/unspecified/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/cfang/Library/Android/meditation/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/cfang/Library/Android/meditation/app/src/main/res/menu/home.xml"
+    }
+]
